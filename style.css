@@ -1,0 +1,28 @@
+.menu {
+    background-color: rgb(233, 86, 86);
+    text-align: center;   
+    padding: 20px; 
+}
+
+.menu a{
+    float: center;
+    color: ivory;
+    padding: 20px;
+    font-family: 'Redressed', cursive;
+    font-size: 20px;
+}
+
+.menu a:hover {
+    background-color: ivory;
+    color: rgb(233, 86, 86);
+}
+
+.menu a.active {
+    background-color: ivory;
+    color: rgb(233, 86, 86);
+}
+
+body{
+    background-color: blanchedalmond;
+
+}
