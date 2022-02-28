@@ -4,3 +4,7 @@ Here follow the references I've used and some info:
 
 Used this tutorial as reference build the Menu in my page.
 "https://www.w3schools.com/howto/howto_js_topnav.asp"
+
+For positioning and scale I've used.
+https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit
+
